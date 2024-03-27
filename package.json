@@ -1,42 +1,23 @@
 {
-  "name": "understanding-ts",
+  "name": "typescript_study01",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "lite-server"
   },
+  "author": "Satou-Minami",
+  "license": "ISC",
+  "description": "Studing typeScript",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yohamta/Understanding-TS.git"
+    "url": "git+https://github.com/Minami-Satou/TypeScript_study01.git"
   },
-  "author": "",
-  "license": "ISC",
   "bugs": {
-    "url": "https://github.com/yohamta/Understanding-TS/issues"
+    "url": "https://github.com/Minami-Satou/TypeScript_study01/issues"
   },
-  "homepage": "https://github.com/yohamta/Understanding-TS#readme",
+  "homepage": "https://github.com/Minami-Satou/TypeScript_study01#readme",
   "devDependencies": {
-    "lite-server": "^2.5.4"
-  }
-}
-{
-  "name": "understanding-typescript",
-  "version": "1.0.0",
-  "description": "Understanding TypeScript Course Setup",
-  "main": "app.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "lite-server"
-  },
-  "keywords": [
-    "typescript",
-    "course"
-  ],
-  "author": "Maximilian Schwarzmüller",
-  "license": "ISC",
-  "devDependencies": {
-    "lite-server": "^2.5.4"
+    "lite-server": "^2.6.1"
   }
 }
